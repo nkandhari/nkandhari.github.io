@@ -1,6 +1,8 @@
 ---
 title: "Complex network analysis of thermostable mutants of Bacillus subtilis Lipase A"
 collection: publications
+type: "Research assistant"
+permalink: /publications/2017-06-26-apns
 date: '2017-06-26'
 venue: Applied Network Science
 paperurl: https://link.springer.com/article/10.1007/s41109-017-0039-y
